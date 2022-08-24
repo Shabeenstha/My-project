@@ -1,0 +1,109 @@
+
+.box{
+    display: block;
+    width: 80%;
+}
+
+.rectangle0{
+
+  color: red;
+ 
+  float: left;
+  margin-left: 250px;
+padding-top: 10px;
+margin-top: 50px;
+  width:49rem;
+  height:3rem;
+  background-color: #f9f1e7;
+  border:1px solid #f9f1e7; 
+  position: relative;
+  text-align: center;
+}
+.rectangle{
+
+  color: green;
+  padding-top: 10px;
+  float: left;
+  margin-left: 250px;
+padding-top: 60px;
+margin-top: 30px;
+  width:15rem;
+  height:10rem;
+  background-color: red;
+  border:1px solid red; 
+  position: relative;
+  text-align: center;
+}
+.rectangle1{
+  color: white;
+
+  float: left;
+  margin-left: 30px;
+padding-top: 60px;
+margin-top: 30px;
+  width:15rem;
+  height:10rem;
+  background-color: green;
+  border:1px solid green; 
+  position: relative;
+  text-align: center;
+}
+.rectangle2 {
+  color: white;
+  padding-top: 60px;
+  float: left;
+  margin-left: 30px;
+padding-top: 60px;
+margin-top: 30px;
+  width:15rem;
+  height:10rem;
+  background-color: blue;
+  border:1px solid blue; 
+  position: relative;
+  text-align: center;
+}
+.rectangle3{
+  color: white;
+ 
+  float: left;
+  margin-left: 30px;
+padding-top: 60px;
+margin-top: 30px;
+  width:15rem;
+  height:10rem;
+  background-color: red;
+  border:1px solid red; 
+  position: relative;
+  text-align: center;
+}
+.rectangle4{
+  color: white;
+  padding-top: 10px;
+  float: left;
+  margin-left: 30px;
+padding-top: 60px;
+margin-top: 30px;
+  width:15rem;
+  height:10rem;
+  background-color:green;
+  border:1px solid green; 
+  position: relative;
+  text-align: center;
+}
+.rectangle5{
+  color: white;
+  padding-top: 10px;
+  float: left;
+  margin-left: 250px;
+padding-top: 60px;
+margin-top: 30px;
+  width:15rem;
+  height:10rem;
+  background-color: blue;
+  border:1px solid blue; 
+  position: relative;
+  text-align: center;
+}
+h5{
+  color: white;
+}
